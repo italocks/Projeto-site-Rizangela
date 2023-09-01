@@ -10,3 +10,8 @@ body {
 main {
     background-color: azure;
 }
+
+h1 {
+    font-size: 40px;
+    color: goldenrod;
+}
